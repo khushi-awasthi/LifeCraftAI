@@ -1,17 +1,16 @@
-# Node modules (both frontend and backend)
+# Node modules
 node_modules/
 server/node_modules/
 
-# Logs
-*.log
-
-# Build outputs
+# React build
 build/
-dist/
+
+# Environment files
+.env
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Environment variables
-.env
+# Logs
+*.log
